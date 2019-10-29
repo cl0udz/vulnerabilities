@@ -1,1 +1,1 @@
-Vulenrabilities descriptions & POC
+Vulenrability descriptions & POC
